@@ -30,7 +30,11 @@ complete -F _completemarks cdd unmark
 
 usage:
 mark name //mark current dir to symbol 'name'
+
 cdd name //fast cd name, which is the dir's symbol name
+
 unmark name //delete symbol
+
 marks //show all symbols
+
 //cdd and unmark support tab auto complete
