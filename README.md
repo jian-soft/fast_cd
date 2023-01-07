@@ -1,6 +1,8 @@
 # fast_cd
 linux fast change directory
 
+how to apply fast_cd:
+
 add follow lines to ~/.bashrc:
 
 ```
